@@ -1,9 +1,15 @@
 [submodule "ESP-NOW_MAIN_RECEIVER"]
 	path = ESP-NOW_MAIN_RECEIVER
 	url = https://github.com/Suznyan/ESP-NOW_MAIN_RECEIVER.git
-[submodule "ESP_NOW_SENDER_SENSOR"]
-	path = ESP_NOW_SENDER_SENSOR
-	url = https://github.com/Suznyan/ESP_NOW_SENDER_SENSOR.git
-[submodule "ESP_NOW_SENDER_RELAY_DEVICE"]
-	path = ESP_NOW_SENDER_RELAY_DEVICE
-	url = https://github.com/Suznyan/ESP_NOW_SENDER_RELAY_DEVICE.git
+[submodule "ESP_NOW_BOARD_3"]
+	path = ESP_NOW_BOARD_3
+	url = https://github.com/Suznyan/ESP_NOW_BOARD_3.git
+[submodule "ESP_NOW_BOARD_4"]
+	path = ESP_NOW_BOARD_4
+	url = https://github.com/Suznyan/ESP_NOW_BOARD_4.git
+[submodule "ESP_NOW_BOARD_2"]
+	path = ESP_NOW_BOARD_2
+	url = https://github.com/Suznyan/ESP_NOW_BOARD_2.git
+[submodule "ESP_NOW_BOARD_1"]
+	path = ESP_NOW_BOARD_1
+	url = https://github.com/Suznyan/ESP_NOW_BOARD_1.git
